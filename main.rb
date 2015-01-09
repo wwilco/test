@@ -1,4 +1,4 @@
 def hello
   p "hello"
-  p "woofwoofwoofagain"
+  p "again"
 end
